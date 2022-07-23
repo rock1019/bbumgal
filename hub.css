@@ -1,0 +1,37 @@
+html{
+    background-color: black;
+    color: white;
+}
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-style: italic;
+}
+#c1{
+    position: relative;
+    left: 30px;
+}
+#c2{
+    position: relative;
+    top: 600px;
+    right: 350px;
+}
+#c3{
+    position: relative;
+    top: 1200px;
+    right: 600px;
+}
+#c4{
+    position: relative;
+    top: 1300px;
+    left: 30px;
+}
+#c5{
+    position: relative;
+    top: 1900px;
+    right: 350px;
+}
